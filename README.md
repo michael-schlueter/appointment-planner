@@ -1,4 +1,4 @@
-# News Application
+# Appointment Planner
 > This is a small React Application for managing contacts and appointments.
 
 
